@@ -1,0 +1,23 @@
+Part 1 Mini Quiz
+1. True or false: An if statement can live without an else statement
+- True
+2. True or false: An else statement can live without an if statement.
+- False
+3. True or false: An elif statement can live without an if statement
+- False
+4. True or false: An if + elif statement can live without an else statement.
+- True
+5. True or false: The following statements are equivalent.
+- True
+
+1. In the following code block, what prints?
+print value
+1
+2
+4
+7
+8
+9
+
+1. In the following code block, what prints?
+2

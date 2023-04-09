@@ -1,0 +1,17 @@
+Reading Material
+1. Nested loop is a loop that occurs within another loop
+2. While loops
+3. While loop
+4. Yes
+sammy = 'Sammy'
+
+for letter in sammy:
+   print(letter)
+Output
+S
+a
+m
+m
+y
+
+5. Yes, while loops is a boolean, once the condition is fulfilled, it will execute whatever condition included for loop
